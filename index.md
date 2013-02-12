@@ -1,29 +1,43 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Art-Tech
+tagline: Do you know you can have Master in Arts even though you are a computer science major?
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Responsive web data analytics
 
-## Update Author Attributes
+Design goals:
+- As simple as using excel
+- Being able to answer an analytical question with a few intuitive touches
+- WYSIWYI (What You See Is What You Interact)
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+Technologies:
+- HTML5, CSS3, Javascript, Jquery, Crossfilter, D3.js, DC.js, NV.js
+- Ruby on Rails
+- Postgresql
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+Demo to come soon.
+
+## Twitter analytics
+
+Example graph of information flow on Twitter sphere:
+<img class="brand-image" src="{{ASSET_PATH}}/images/twitter_activity_graph.png"/>
+
+Goals:
+- Real time aggregate and analyze tweets on a certain topic
+- Trend discovery
+- Graph of user activities on the topic
+
+Technologies:
+- Javascript, Canvas, Sigma.js
+- Twitter streaming API, Ruby
+
+## Social Islands
+A graph visualization of Facebook friends network.
+
+
 
 This blog contains sample posts which help stage pages and blog data.
 When you don't need the samples anymore just delete the `_posts/core-samples` folder.
