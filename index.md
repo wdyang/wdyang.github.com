@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Art-Tech
+title: My projects of Art-N-Tech nature
 tagline: Do you know you can have Master in Arts even though you are a computer science major?
 ---
 {% include JB/setup %}
 
 
-## Responsive web data analytics
+## Responsive Web Data Analytics (2013)
 
 Design goals:
 - As simple as using excel
@@ -14,47 +14,77 @@ Design goals:
 - WYSIWYI (What You See Is What You Interact)
 
 Technologies:
-- HTML5, CSS3, Javascript, Jquery, Crossfilter, D3.js, DC.js, NV.js
-- Ruby on Rails
-- Postgresql
+- Javascript, Ruby on Rails, Postgresql, Jquery, Crossfilter, D3.js, DC.js, NV.js, HTML5, CSS3
 
-Demo to come soon.
+Demo coming soon.
 
-## Twitter analytics
+## Twitter Analytics (2012-Nov)
 
 Example graph of information flow on Twitter sphere:
 <img class="brand-image" src="{{ASSET_PATH}}/images/twitter_activity_graph.png"/>
 
 Goals:
 - Real time aggregate and analyze tweets on a certain topic
-- Trend discovery
-- Graph of user activities on the topic
+- Discover trend
+- Discover infomation flow
 
-Technologies:
-- Javascript, Canvas, Sigma.js
-- Twitter streaming API, Ruby
+Technologies: Javascript, Canvas, Sigma.js, Twitter streaming API, Ruby
 
-## Social Islands
+## Location Based Business Intelligence (2012-Nov)
+
+- Discover latent connection of business entities by analyzing user interaction
+- Clustering and visualizing business entities in both connection space and physical space
+
+Demo coming soon.
+
+## Ghostloop (2013-Jan)
+An interactive video/dance installation.
+<table>
+	<tr>
+		<td><a href="{{ASSET_PATH}}/images/ghostloop/IMG_8885.jpg"><img src="{{ASSET_PATH}}/images/ghostloop/small-8885.jpg"/></a></td>
+		<td><a href="{{ASSET_PATH}}/images/ghostloop/IMG_8937.jpg"><img src="{{ASSET_PATH}}/images/ghostloop/small-8937.jpg"/></a></td>
+		<td><a href="{{ASSET_PATH}}/images/ghostloop/IMG_8962.jpg"><img src="{{ASSET_PATH}}/images/ghostloop/small-8962.jpg"/></a></td>
+		<td><a href="{{ASSET_PATH}}/images/ghostloop/IMG_8975.jpg"><img src="{{ASSET_PATH}}/images/ghostloop/small-8975.jpg"/></a></td>
+	</tr>
+	<tr>
+		<td><a href="{{ASSET_PATH}}/images/ghostloop/IMG_8977.jpg"><img src="{{ASSET_PATH}}/images/ghostloop/small-8977.jpg"/></a></td>
+		<td><a href="{{ASSET_PATH}}/images/ghostloop/IMG_8989.jpg"><img src="{{ASSET_PATH}}/images/ghostloop/small-8989.jpg"/></a></td>
+		<td><a href="{{ASSET_PATH}}/images/ghostloop/IMG_9008.jpg"><img src="{{ASSET_PATH}}/images/ghostloop/small-9008.jpg"/></a></td>
+		<td><a href="{{ASSET_PATH}}/images/ghostloop/IMG_9022.jpg"><img src="{{ASSET_PATH}}/images/ghostloop/small-9022.jpg"/></a></td>
+	</tr>
+</table>
+
+
+## Social Islands (2012 Summer)
 A graph visualization of Facebook friends network.
 
+<table>
+	<tr>
+	<td><a href="{{ASSET_PATH}}/images/si01.png"><img src="{{ASSET_PATH}}/images/si01_icon.png"/></a></td>
+	<td><a href="{{ASSET_PATH}}/images/si02.png"><img src="{{ASSET_PATH}}/images/si02_icon.png"/></a></td>
+	<td><a href="{{ASSET_PATH}}/images/si03.png"><img src="{{ASSET_PATH}}/images/si03_icon.png"/></a></td>
+	<td><a href="{{ASSET_PATH}}/images/si04.png"><img src="{{ASSET_PATH}}/images/si04_icon.png"/></a></td>
+	</tr>
+</table>
 
+The site was built by Wolfram Arnold and I, hosted on Heroku using MongoHQ. It stayed in operation for about 8 month. Recently taken down due to cost on server, mostly on DB hosting. It will be back though in the near futuer.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+Technologies: Rails, MongoDB, Java (Gephi), Simga.js, Redis, Facebook connection
 
-    $ rm -rf _posts/core-samples
+## Chysalis - Social Islands (2012 Nov)
+A dance explores the human connection. Dancer: Rachael Elliott. Choreographer: Daiane Lopes da Silva. Location: The Garage, SF.
+<center>
+<table>
+	<tr>
+		<td><a href="{{ASSET_PATH}}/images/IMG_5679.jpg"><img src="{{ASSET_PATH}}/images/small-5679.jpg"/></a></td>
+		<td><a href="{{ASSET_PATH}}/images/IMG_5684.jpg"><img src="{{ASSET_PATH}}/images/small-5684.jpg"/></a></td>
+		<td><a href="{{ASSET_PATH}}/images/IMG_5704.jpg"><img src="{{ASSET_PATH}}/images/small-5704.jpg"/></a></td>
+	</tr>
+</table>
+</center>
 
-Here's a sample "posts list".
+## Infrared Dance Photography (On going)
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+## Tap Rapper
 
 
