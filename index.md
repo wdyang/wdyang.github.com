@@ -10,6 +10,7 @@ tags: [dance, IR, photography, video, d3.js, javascript, graph, rails, ROR]
 ## Responsive Web Data Analytics (2013)
 
 Design goals:
+- The content is the interface
 - As simple as using excel
 - Being able to answer an analytical question with a few intuitive touches
 - WYSIWYI (What You See Is What You Interact)
