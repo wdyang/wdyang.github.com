@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My projects of Art-N-Tech in nature
-tagline: Do you know you can have Master in Arts even though you are a computer science major?
+title: Projects of Art-N-Tech in nature
+tagline: Do you know you can have Master in Arts even though you are a engineering major?
 tags: [dance, IR, photography, video, d3.js, javascript, graph, rails, ROR]
 ---
 {% include JB/setup %}
