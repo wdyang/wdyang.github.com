@@ -1,7 +1,8 @@
 ---
 layout: page
-title: My projects of Art-N-Tech nature
+title: My projects of Art-N-Tech in nature
 tagline: Do you know you can have Master in Arts even though you are a computer science major?
+tags: [dance, IR, photography, video, d3.js, javascript, graph, rails, ROR]
 ---
 {% include JB/setup %}
 
@@ -54,7 +55,8 @@ An interactive video/dance installation.
 	</tr>
 </table>
 
-
+Dancers: Daiane Lopes da Silva, Natalie Marsh, Nitipat Ong Pholchai, Jana Meszaros, Katie Griffin, Rosa Navarrete. Video grapher Mark McBeth
+Location: Underground KUNST-STOFF arts, SF. Event FRESH Festival 2013.
 ## Social Islands (2012 Summer)
 A graph visualization of Facebook friends network.
 
@@ -85,6 +87,23 @@ A dance explores the human connection. Dancer: Rachael Elliott. Choreographer: D
 
 ## Infrared Dance Photography (On going)
 
-## Tap Rapper
+I have converted a Canon Rebel to near-infrared-only (750nm-1000nm) cameral. When used right, it creates a highly stage looking scenary under broad day light. 
+
+<center><a href="http://lightisdance.com/gallery/curiouslightair/"><img class="brand-image" src="{{ASSET_PATH}}/images/IMG_5758.jpg"/></a></center>
+Dancer: Daiane Lopes da Silva
+
+My main Dance Photography site is <http://www.lightisdance.com>, and [Gallery](http://www.lightisdance.com/home/gallery). They are hosted on godaddy.com, which is unbearably slow these days. If anyone has any good suggestions. Please shoot me an email.
+
+
+## Tap Rapper (2010-2012)
+A game to teach kids tap dancing. We built the prototype using motion senstor attached on kid's feet to monitor the movement and give feedback. It turned out that building the prototype was the easy part. Finding the right manufacture to make the device with acceptable cost was very difficult. The project was put on hold till we can resolve the sensor manufacturing challenge. Collaborators: Sachin Deshapande, Ann Marie Garvin, Lee Rousey.
+
+Technologies:
+- Motion sensor based interactive feedback.
+- Adopted a speech recognition algorithm for movement recognition.
+
+Key achievement:
+- In a test with a group of kids on 9 runs, the algorithm, without tweaking, was able to match the expert evaluation 8 out of 9 times in a 1 to 5 scale. The only one missed was off by one.
+- Implemented a version using Kinect sensor. If was found that the sensitivity of Kinect was not appropriet for detail feet movement.
 
 
