@@ -19,6 +19,7 @@ Technologies:
 
 Demo coming soon.
 
+
 ## Twitter Analytics (2012-Nov)
 
 Example graph of information flow on Twitter sphere:
@@ -31,12 +32,14 @@ Goals:
 
 Technologies: Javascript, Canvas, Sigma.js, Twitter streaming API, Ruby
 
+
 ## Location Based Business Intelligence (2012-Nov)
 
 - Discover latent connection of business entities by analyzing user interaction
 - Clustering and visualizing business entities in both connection space and physical space
 
 Demo coming soon.
+
 
 ## Ghostloop (2013-Jan)
 An interactive video/dance installation.
@@ -57,6 +60,8 @@ An interactive video/dance installation.
 
 Dancers: Daiane Lopes da Silva, Natalie Marsh, Nitipat Ong Pholchai, Jana Meszaros, Katie Griffin, Rosa Navarrete. Video grapher Mark McBeth
 Location: Underground KUNST-STOFF arts, SF. Event FRESH Festival 2013.
+
+
 ## Social Islands (2012 Summer)
 A graph visualization of Facebook friends network.
 
@@ -73,6 +78,7 @@ The site was built by Wolfram Arnold and I, hosted on Heroku using MongoHQ. It s
 
 Technologies: Rails, MongoDB, Java (Gephi), Simga.js, Redis, Facebook connection
 
+
 ## Chysalis - Social Islands (2012 Nov)
 A dance explores the human connection. Dancer: Rachael Elliott. Choreographer: Daiane Lopes da Silva. Location: The Garage, SF.
 <center>
@@ -85,14 +91,15 @@ A dance explores the human connection. Dancer: Rachael Elliott. Choreographer: D
 </table>
 </center>
 
+
 ## Infrared Dance Photography (On going)
 
-I have converted a Canon Rebel to near-infrared-only (750nm-1000nm) cameral. When used right, it creates a highly stage looking scenary under broad day light. 
+I have converted a Canon Rebel to near-infrared-only (750nm-1000nm) camera. It has the ability of creating a stage looking scenary under broad day light. 
 
 <center><a href="http://lightisdance.com/gallery/curiouslightair/"><img class="brand-image" src="{{ASSET_PATH}}/images/IMG_5758.jpg"/></a></center>
 Dancer: Daiane Lopes da Silva
 
-My main Dance Photography site is <http://www.lightisdance.com>, and [Gallery](http://www.lightisdance.com/home/gallery). They are hosted on godaddy.com, which is unbearably slow these days. If anyone has any good suggestions. Please shoot me an email.
+My main Dance Photography site is <http://www.lightisdance.com>, and [Gallery](http://www.lightisdance.com/home/gallery). They are hosted on godaddy.com, which is unbearably slow these days. If anyone has any good suggestions. Please shoot me an email (wdyangmail@yahoo.com).
 
 
 ## Tap Rapper (2010-2012)
