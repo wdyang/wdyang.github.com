@@ -35,7 +35,7 @@ Technologies:
 ## Twitter Analytics (2012-Nov)
 
 Example graph of information flow on Twitter sphere:
-<img class="brand-image" src="{{ASSET_PATH}}/images/twitter_activity_graph.png"/>
+<center><img class="brand-image" src="{{ASSET_PATH}}/images/twitter_activity_graph.png"/></center>
 ###<a href="http://youtu.be/77ZyTorhM9E">Video demo</a>
 
 Goals:
