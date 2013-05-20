@@ -6,6 +6,12 @@ tags: [dance, IR, photography, video, d3.js, javascript, graph, rails, ROR]
 ---
 {% include JB/setup %}
 
+## Kinetech (April 2013 - )
+Bringing the vibrant technology society and art society in SF together.
+
+Expending the artistic possibility through technology.
+
+
 
 ## Responsive Web Data Analytics (2013)
 
@@ -18,13 +24,13 @@ Design goals:
 Technologies:
 - Javascript, Ruby on Rails, Postgresql, Jquery, Crossfilter, D3.js, DC.js, NV.js, HTML5, CSS3
 
-Demo coming soon.
 
 
 ## Twitter Analytics (2012-Nov)
 
 Example graph of information flow on Twitter sphere:
 <img class="brand-image" src="{{ASSET_PATH}}/images/twitter_activity_graph.png"/>
+###<a href="http://youtu.be/77ZyTorhM9E">Video demo</a>
 
 Goals:
 - Real time aggregate and analyze tweets on a certain topic
@@ -35,11 +41,12 @@ Technologies: Javascript, Canvas, Sigma.js, Twitter streaming API, Ruby
 
 
 ## Location Based Business Intelligence (2012-Nov)
+###<a href="http://youtu.be/inDURIZlTPA">Video demo</a>, data from <a href="http://www.weotta.com/">Weotta</a>
 
 - Discover latent connection of business entities by analyzing user interaction
 - Clustering and visualizing business entities in both connection space and physical space
 
-Demo coming soon.
+
 
 
 ## Ghostloop (2013-Jan)
