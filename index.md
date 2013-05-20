@@ -16,7 +16,7 @@ Expending the artistic possibility through technology.
 Resident artist at <a href="http://www.kunst-stoff.org/">KUNST-STOFF arts</a>
 #### <a href="http://kinetechmedia.blogspot.com/">Kinetech blog</a>
 #### <a href="https://www.facebook.com/kinetechlab">Kinetech Facebook page</a>
-#### <a href="https://www.facebook.com/events/158207947688400/">First open-lab/Show, as part of KUNST-STOFF arts fest 2013</a>
+#### <a href="https://www.facebook.com/events/158207947688400/">First open-lab/Show, May 20, 21, in KUNST-STOFF arts fest 2013</a>
 #### <a href="http://blogs.sfweekly.com/exhibitionist/2013/05/science_is_beautiful.php">Preview of the show on SF Weekly blog</a>
 
 ## Responsive Web Data Analytics (2013)
